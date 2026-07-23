@@ -44,12 +44,8 @@ commit 12 months full-time starting October 2026.
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00BFFF,100:6A0DAD&height=80&section=header&text=Skills&fontSize=40&fontColor=fff&animation=twinkling" width="50%" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=TECHNICAL+SKILLS+MATRIX;AI+%26+LLM+Integration;Automation+%26+Workflow;Backend+%26+APIs;Frontend+%26+Dashboards;Security+%26+IT+Infrastructure&font=Fira+Code&size=18&duration=4000&pause=600&color=00BFFF&center=true&width=600&height=90" />
 </p>
-
-<pre align="center">
-<b>TECHNICAL SKILLS MATRIX</b>
-</pre>
 
 <b>AI & LLM Integration</b>
 <p>
@@ -109,12 +105,8 @@ commit 12 months full-time starting October 2026.
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00BFFF,100:6A0DAD&height=80&section=header&text=Projects+%26+Code&fontSize=40&fontColor=fff&animation=twinkling" width="80%" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=SELECTED+PROJECTS;32+deployed+%E2%80%94+AI%2FML+%7C+SaaS+%7C+Dashboards;Full+list:+yulrred.vercel.app%2Fen%2Fprojects&font=Fira+Code&size=18&duration=4000&pause=600&color=00BFFF&center=true&width=650&height=70" />
 </p>
-
-<pre align="center">
-<b>SELECTED PROJECTS</b> (32 total — full list: <a href="https://yulrred.vercel.app/en/projects">yulrred.vercel.app/en/projects</a>)
-</pre>
 
 <details>
 <summary><b>AI/ML PIPELINES</b></summary>
@@ -230,15 +222,7 @@ commit 12 months full-time starting October 2026.
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6A0DAD,100:00BFFF&height=70&section=header&text=Experience&fontSize=35&fontColor=fff&animation=twinkling" width="80%" />
-</p>
-
-<pre align="center">
-<b>PROFESSIONAL EXPERIENCE</b>
-</pre>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=6%2B+years+%E2%80%94+IT+Operations+%E2%80%94+Data+%E2%80%94+AI;From+auditing+data+to+building+agents+that+automate+it&font=Fira+Code&size=18&duration=3000&pause=500&color=00BFFF&center=true&width=700&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=PROFESSIONAL+EXPERIENCE;6%2B+years+%E2%80%94+IT+%E2%80%94+Data+%E2%80%94+AI;From+auditing+to+automation;Building+SaaS+platforms+and+AI+agents;Delivering+measurable+impact+at+scale&font=Fira+Code&size=17&duration=3500&pause=500&color=00BFFF&center=true&width=700&height=90" />
 </p>
 
 <b>DATA ANALYST</b> — <i>DAAT (Remote)</i>
@@ -301,14 +285,8 @@ commit 12 months full-time starting October 2026.
 ▸ PLC programming, electrical panel assembly, hardware maintenance
 </td></tr></table>
 
----
-
-<pre align="center">
-<b>CONNECT</b>
-</pre>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Available+for+opportunities+worldwide;Let%27s+build+something+that+matters&font=Fira+Code&size=18&duration=4000&pause=800&color=00BFFF&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Available+for+opportunities+worldwide;Open+to+collaboration+%26+freelance;Let%27s+build+something+that+matters;Reach+out+%E2%80%94+let%27s+talk&font=Fira+Code&size=17&duration=4000&pause=500&color=00BFFF&center=true&width=550&height=60&repeat=true" />
 </p>
 
 <p align="center">
