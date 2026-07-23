@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%40YULRRED+%7C+REGT-URRED;AI+Systems+Builder+%26+Data+Engineer;6%2B+years+%E2%80%94+32+deployed+projects;building+tools+that+fix+real+problems&font=Fira+Code&size=22&duration=4000&pause=600&color=00BFFF&center=true&width=700&height=90" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%40YULRRED+%7C+REGT-URRED;AI+Systems+Builder;Data+Engineer+%26+Full+Stack;6%2B+years+%E2%80%94+32+deployed+projects;Python+%7C+TS+%7C+React+%7C+n8n+%7C+Supabase;building+tools+that+fix+real+problems&font=Fira+Code&size=22&duration=3500&pause=400&color=00BFFF&center=true&width=700&height=100&repeat=true" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00BFFF,100:6A0DAD&height=20&section=header&animation=fadeIn" width="100%" />
+---
 
 <table>
   <tr>
@@ -37,13 +37,15 @@ commit 12 months full-time starting October 2026.
       </pre>
     </td>
     <td width="35%" valign="top" align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+%7C+TypeScript+%7C+React;n8n+%7C+Supabase+%7C+FastAPI;Claude+AI+%7C+DeepSeek+%7C+Docker;Whisper+%7C+Edge+TTS+%7C+AI+Agent;Rust+%7C+Next.js+%7C+Tailwind;Always+building+the+next+thing&font=Fira+Code&size=14&duration=5000&pause=500&color=00BFFF&center=true&width=300&height=200" />
+      <img src="https://readme-typing-svg.demolab.com/?lines=Python+%7C+TypeScript+%7C+React;n8n+%7C+Supabase+%7C+FastAPI;Claude+AI+%7C+DeepSeek+%7C+Docker;Whisper+%7C+Edge+TTS+%7C+AI+Agent;Rust+%7C+Next.js+%7C+Tailwind;Always+building+the+next+thing&font=Fira+Code&size=14&duration=5000&pause=500&color=00BFFF&center=true&width=300&height=200" />
     </td>
   </tr>
 </table>
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00BFFF,100:6A0DAD&height=40&section=header&animation=fadeIn" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00BFFF,100:6A0DAD&height=80&section=header&text=Skills&fontSize=40&fontColor=fff&animation=twinkling" width="50%" />
+</p>
 
 <pre align="center">
 <b>TECHNICAL SKILLS MATRIX</b>
@@ -106,31 +108,9 @@ commit 12 months full-time starting October 2026.
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00BFFF,100:6A0DAD&height=40&section=header&animation=fadeIn" width="100%" />
-
-<pre align="center">
-<b>GITHUB ANALYTICS</b>
-</pre>
-
 <p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=REGT-URRED&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="420" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=REGT-URRED&theme=radical&hide_border=true" width="420" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REGT-URRED&layout=compact&theme=radical&hide_border=true&langs_count=10" width="420" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00BFFF,100:6A0DAD&height=80&section=header&text=Projects+%26+Code&fontSize=40&fontColor=fff&animation=twinkling" width="80%" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00BFFF,100:6A0DAD&height=20&section=header&animation=fadeIn" width="100%" />
 
 <pre align="center">
 <b>SELECTED PROJECTS</b> (32 total — full list: <a href="https://yulrred.vercel.app/en/projects">yulrred.vercel.app/en/projects</a>)
@@ -249,14 +229,16 @@ commit 12 months full-time starting October 2026.
 </details>
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00BFFF,100:6A0DAD&height=40&section=header&animation=fadeIn" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6A0DAD,100:00BFFF&height=70&section=header&text=Experience&fontSize=35&fontColor=fff&animation=twinkling" width="80%" />
+</p>
 
 <pre align="center">
 <b>PROFESSIONAL EXPERIENCE</b>
 </pre>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=6%2B+years+%E2%80%94+IT+Operations+%E2%80%94+Data+%E2%80%94+AI;From+auditing+data+to+building+agents+that+automate+it&font=Fira+Code&size=18&duration=3000&pause=500&color=00BFFF&center=true&width=700&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=6%2B+years+%E2%80%94+IT+Operations+%E2%80%94+Data+%E2%80%94+AI;From+auditing+data+to+building+agents+that+automate+it&font=Fira+Code&size=18&duration=3000&pause=500&color=00BFFF&center=true&width=700&height=40" />
 </p>
 
 <b>DATA ANALYST</b> — <i>DAAT (Remote)</i>
@@ -319,14 +301,14 @@ commit 12 months full-time starting October 2026.
 ▸ PLC programming, electrical panel assembly, hardware maintenance
 </td></tr></table>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00BFFF,100:6A0DAD&height=20&section=header&animation=fadeIn" width="100%" />
+---
 
 <pre align="center">
 <b>CONNECT</b>
 </pre>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Available+for+opportunities+worldwide;Let%27s+build+something+that+matters&font=Fira+Code&size=18&duration=4000&pause=800&color=00BFFF&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Available+for+opportunities+worldwide;Let%27s+build+something+that+matters&font=Fira+Code&size=18&duration=4000&pause=800&color=00BFFF&center=true&width=500&height=40" />
 </p>
 
 <p align="center">
